@@ -5,24 +5,21 @@ Intructions:
 3) If there is a need to do any new block for any conference website in specific, ensure to add and save the file in the style.css
  */
 :root {
-	--primary-color: #009281;
-	--secondary-color: #4ab4a5;
-	--third-color: #939393;
-	--fourth-color: #123a30;
-	--fifth-color: #4ab4a5;
-	--light-color: #eff9f8;
+	--primary-color: #971860;
+	--secondary-color: #c63294;
+	--third-color: #c63294;
+	--fourth-color: #939393;
+	--light-color: #faeaf5;
 	--preloader-color: #f9fbfe;
 	--white-color: #fff;
 	--black-color: #000;
-	--abstractfilebg-color: #4ab4a5;
-	--offerbg-color: #123a31;
+	--abstractfilebg-color: #d9a1c1;
+	--offerbg-color: #2b3b5c;
 	--contentbg-color: #737373;
 	--iconbg-color: #adadad;
 	--bannerhover-color: #029bb4;
 	--registerbg-color: #87dae7;
 	--modalred-color: #ef513a;
-	--members-color: #009281;
-
 }
 
 .error {
@@ -1774,16 +1771,16 @@ a {
 
 .speakers-section .committee-spacing .member-spacing {
 	text-align: center;
-	margin-top: 135px;                     
+	margin-top: 135px;
 	margin-bottom: 0px;
 }
 
-.members-view-all-btn-block .view-more-speakers-btn{
+.members-view-all-btn-block .view-more-speakers-btn {
 	background-color: var(--primary-color);
-    padding: 13px 37px 14px;
-    font-size: 19px;
-    color: #fff;
-    border-radius: 25px;
+	padding: 13px 37px 14px;
+	font-size: 19px;
+	color: #fff;
+	border-radius: 25px;
 	border: 1px solid var(--primary-color);
 }
 
