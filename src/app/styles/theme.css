@@ -202,7 +202,7 @@ a {
 }
 
 .banner_wrap button:hover {
-	background-color: var(--bannerhover-color);
+	background-color: var(--secondary-color);
 }
 
 .sq_mainbox {
@@ -535,7 +535,7 @@ a {
 }
 
 .footer_last_wrap {
-	background-color: var(--primary-color);
+	background-color: var(--secondary-color);
 }
 
 .menu_footer2 .form .btn-primary {
@@ -759,7 +759,7 @@ a {
 
 	.main-menu .navbar-header .navbar-toggle {
 		background: var(--primary-color);
-		/* margin-top: 15px !important; */
+		margin-top: 8px !important;
 	}
 
 	.main-menu .navbar-header .navbar-toggle .icon-bar {
@@ -1773,7 +1773,7 @@ a {
 .captcha-container img {
 	border: 1px dashed var(--primary-color);
 	border-radius: 10px;
-	padding: 8px;
+	padding: 10px;
 	margin-bottom: 20px;
 }
 
