@@ -9569,11 +9569,12 @@ input[text]:focus {
 }
 
 /* ERROR toast */
-.Toastify__toast--error {
+/* .Toastify__toast--error {
 	background-color: #cf0000;
 	color: var(--white-color);
+	
 	border-left: 5px solid #cf0000;
-}
+} */
 
 /* INFO toast */
 /* .Toastify__toast--info {
