@@ -7,7 +7,7 @@
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming Diabetes Global Conference. Timely registration and submissions will ensure you make the most of this premier event.",
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming Cancer Global Summit. Timely registration and submissions will ensure you make the most of this premier event.",
             "headding": "Important Dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
@@ -17,22 +17,22 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Get ready to become a part of our event - Diabetes Global Conference 2026! Volunteer with us to help operate the event, and learn, and network with leaders of diabetes care and research. ",
+            "content": "Volunteer as a member of the Cancer Global Summit 2026, and be a part of this historic event. Meet International speakers, assist with logistic efforts during the event, and help advance cancer research in action.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Submit your abstract to the Diabetes Global Conference 2026 and take your science forward on insulin therapy, prevention methods, and digital health. Collaborate with worldwide as they help shape the future of diabetes care.",
+            "content": "Join Cancer Global Summit 2026 to present research and innovations in cancer care. Abstracts are welcome from all oncology fields including science, clinical studies, therapies, and diagnosis.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "The Diabetes Global Conference will bring together some of the brightest minds around the world for the best innovative treatments and precision medicine in diabetes care, and digital health. Experts will deliver actionable insights to advance better patient outcomes while dealing with the session global challenges in preventing and managing diabetes.",
+            "content": "Join the 2026 edition of the Cancer Global Summit to dig deeper into all the novel advances in oncology. Sessions will include breakthroughs in immunotherapy, gene therapies, and personalized medicine, through innovative ways with cancer diagnostics, treatment, and prevention insights that shape future cancer care.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to our Diabetes Global Conference 2026, a venue where dedicated professionals will get together to share cutting-edge innovations and best practices in diabetes care and management.",
+            "content": "Welcome to the Cancer Global Summit 2026, which has brought all the experts and professionals in one place to explore the advanced and most innovative practices regarding oncology and treatments of cancer.",
             "headding": "Footer Content"
         },
         "offers_content": {
@@ -54,73 +54,73 @@
         }
     },
     "banner_conent": {
-        "17": {
-            "banner_conent_id": "17",
+        "12": {
+            "banner_conent_id": "12",
             "image": "images/banner.jpg",
-            "headding": "Global Perspectives in Diabetes and Endocrinology",
-            "tag_line": "Diabetes Global Conference - May 07-08, 2026 in London, UK",
-            "content": "The Diabetes Global Conference will bring the latest diabetes research, care, and technology. Download the brochure to learn the most important sessions, expert speakers, and networking opportunities that will shape the future of diabetes care.",
+            "headding": "Innovating Cancer Therapies for a Brighter Future",
+            "tag_line": "Cancer Global Summit - April 16-17, 2026 in Dubai, UAE",
+            "content": "Discover the latest breakthroughs at the Cancer Global Summit 2026. Join global experts to discuss cutting-edge innovations in immunotherapy, precision medicine, AI in oncology, and advanced diagnostics. Download our brochure for details on the agenda, renowned speakers, and networking opportunities. ",
             "page": "index",
             "status": "1",
-            "cid": "14"
+            "cid": "11"
         }
     },
     "sessions": [
         {
-            "text": "1. Diabetes Mellitus and Research",
-            "link": "diabetes-mellitus-and-research",
-            "session_short_name": "Diabetes Mellitus and Research"
+            "text": "1. Cancer Epidemiology",
+            "link": "cancer-epidemiology",
+            "session_short_name": "Cancer Epidemiology"
         },
         {
-            "text": "2.\tDiabetic Retinopathy",
-            "link": "diabetic-retinopathy",
-            "session_short_name": "Diabetic Retinopathy"
+            "text": "2.\tMedical Oncology",
+            "link": "medical-oncology",
+            "session_short_name": "Medical Oncology"
         },
         {
-            "text": "3.\tClinical Endocrinology",
-            "link": "clinical-endocrinology",
-            "session_short_name": "Clinical Endocrinology"
+            "text": "3.\tCancer Biomarkers",
+            "link": "cancer-biomarkers",
+            "session_short_name": "Cancer Biomarkers"
         },
         {
-            "text": "4.\tDiabetic foot",
-            "link": "diabetic-foot",
-            "session_short_name": "Diabetic foot"
+            "text": "4.\tLung Cancer",
+            "link": "lung-cancer",
+            "session_short_name": "Lung Cancer"
         },
         {
-            "text": "5.\tEndocrine Gland and Disorders",
-            "link": "endocrine-gland-and-disorders",
-            "session_short_name": "Endocrine Gland and Disorders"
+            "text": "5.\tCancer Treatment and Therapy",
+            "link": "cancer-treatment-and-therapy",
+            "session_short_name": "Cancer Treatment and Therapy"
         },
         {
-            "text": "6.\tDiabetic clinical care and Prevention",
-            "link": "diabetic-clinical-care-and-prevention",
-            "session_short_name": "Diabetic clinical care and Prevention"
+            "text": "6.\tAI in Cancer",
+            "link": "ai-in-cancer",
+            "session_short_name": "AI in Cancer"
         },
         {
-            "text": "7. Obesity and Metabolism for Diabetes",
-            "link": "obesity-and-metabolism-for-diabetes",
-            "session_short_name": "Obesity and Metabolism for Diabetes"
+            "text": "7. Breast Cancer",
+            "link": "breast-cancer",
+            "session_short_name": "Breast Cancer"
         },
         {
-            "text": "8.Diabetic Retinopathy",
-            "link": "diabetic-retinopathy",
-            "session_short_name": "Diabetic Retinopathy"
+            "text": "8. Pediatric Oncology",
+            "link": "pediatric-oncology",
+            "session_short_name": "Pediatric Oncology"
         },
         {
-            "text": "9.\tCardiovascular risk of diabetes",
-            "link": "cardiovascular-risk-of-diabetes",
-            "session_short_name": "Cardiovascular risk of diabetes"
+            "text": "9.\tCancer Pharmacology",
+            "link": "cancer-pharmacology",
+            "session_short_name": "Cancer Pharmacology"
         },
         {
-            "text": "10. Precision Medicine in Diabetes Care",
-            "link": "precision-medicine-in-diabetes-care",
-            "session_short_name": "Precision Medicine in Diabetes Care"
+            "text": "10. Radiation Oncology",
+            "link": "radiation-oncology",
+            "session_short_name": "Radiation Oncology"
         }
     ],
     "important_dates": [
         {
             "text": "Abstract Submission Deadline",
-            "date": "14<sub>th</sub> <span>March <br> 2025</span>"
+            "date": "14<sub>th</sub> <span>April <br> 2025</span>"
         },
         {
             "text": "Discounted Registration Fee",
@@ -128,21 +128,21 @@
         }
     ],
     "venue_images": {
-        "29": {
+        "17": {
             "image": "images/g1.webp",
-            "alt_text": "The Tate Modern"
+            "alt_text": "Burj Al Arab"
         },
-        "30": {
+        "18": {
             "image": "images/g2.webp",
-            "alt_text": "Buckingham-Palace"
+            "alt_text": "Burji khalifa"
         },
-        "31": {
+        "19": {
             "image": "images/g3.webp",
-            "alt_text": "The West End"
+            "alt_text": "Burji khalifa"
         },
-        "32": {
+        "20": {
             "image": "images/g4.webp",
-            "alt_text": "Hyde Park"
+            "alt_text": "Palm Jumeirah"
         }
     }
 }
