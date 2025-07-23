@@ -3,15 +3,17 @@ import { Metadata } from "next";
 import { ApiResponse, CommonContent } from "@/types";
 import Faqs from "../components/Faqs";
 
+import { getBaseUrl } from "@/lib/getBaseUrl";
+
 // async function fetchGeneralData(): Promise<ApiResponse> {
-//   const baseUrl = process.env.BASE_URL;
+//   const baseUrl = getBaseUrl();
 //   const res = await fetch(`${baseUrl}/api/general`, { cache: "no-store" });
 //   if (!res.ok) throw new Error("Failed to fetch general data");
 //   return res.json();
 // }
 
 async function fetchCommonData(): Promise<CommonContent> {
-  const baseUrl = process.env.BASE_URL;
+  const baseUrl = getBaseUrl();
   const res = await fetch(`${baseUrl}/api/common-content`, {
     method: "POST",
     cache: "no-store",
@@ -20,7 +22,7 @@ async function fetchCommonData(): Promise<CommonContent> {
   return res.json();
 }
 async function fetchGeneralDataStatic(): Promise<ApiResponse> {
-  const baseUrl = process.env.BASE_URL;
+  const baseUrl = getBaseUrl();
   const res = await fetch(`${baseUrl}/api/general`, {
     next: { revalidate: 3600 }, // Cache for 1 hour
   });
@@ -37,16 +39,16 @@ export async function generateMetadata(): Promise<Metadata> {
       meta_keywords: "",
     };
 
-    // Canonical 
-    const baseUrl = process.env.BASE_URL || '';
-    const canonicalPath = '/faqs'; // hardcode since we know this is sessions page
-    const canonicalURL = `${baseUrl}${canonicalPath}`;
+    // Canonical
+    // const baseUrl = process.env.BASE_URL || "";
+    const canonicalPath = "/faqs"; // hardcode since we know this is sessions page
+    const canonicalURL = `${getBaseUrl()}${canonicalPath}`;
 
     return {
       title: meta.title,
       description: meta.content,
       keywords: meta.meta_keywords,
-      metadataBase: new URL(baseUrl),
+      metadataBase: new URL(getBaseUrl()),
       alternates: {
         canonical: canonicalURL,
       },
@@ -64,8 +66,6 @@ export async function generateMetadata(): Promise<Metadata> {
 // ✅ SSR Page Component
 const FaqsPage = async () => {
   const [commonContent] = await Promise.all([fetchCommonData()]);
-
-
 
   const faqsContent = commonContent?.data?.faq || [];
   // console.log("faq 1111", faqsContent);

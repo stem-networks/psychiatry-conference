@@ -1,35 +1,20 @@
-import { NextResponse } from 'next/server';
-import axios from 'axios';
+import { NextResponse } from "next/server";
+import { getIndexPageData } from "@/lib/getIndexPageData";
 
 export async function POST() {
   try {
-    const apiUrl = process.env.API_URL;
-    const cid = process.env.CID;
-
-    if (!apiUrl || !cid) {
-      return NextResponse.json(
-        { error: 'API configuration error' },
-        { status: 500 }
-      );
-    }
-
-    const response = await axios.post(apiUrl, {
-      module_name: 'index_page',
-      keys: { data: [] },
-      cid: cid,
-    });
-
+    const jsonData = await getIndexPageData();
     return NextResponse.json({
-      oneliner: response.data.oneliner,
-      bannerContent: response.data.banner_conent,
-      sessions: response.data.sessions,
-      importantDates: response.data.important_dates,
-      venueImages: response.data.venue_images || {},
+      oneliner: jsonData.oneliner,
+      bannerContent: jsonData.banner_conent, // note: spelling as in your JSON/file!
+      sessions: jsonData.sessions,
+      importantDates: jsonData.important_dates,
+      venueImages: jsonData.venue_images || {},
     });
   } catch (error) {
-    console.error('Error fetching index page data:', error);
+    console.error("Error reading index_page.json:", error);
     return NextResponse.json(
-      { error: 'Failed to fetch index page data' },
+      { error: "Failed to load index page data" },
       { status: 500 }
     );
   }

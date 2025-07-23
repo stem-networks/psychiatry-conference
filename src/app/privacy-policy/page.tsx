@@ -6,11 +6,12 @@ import Link from "next/link";
 import { ApiResponse } from "@/types";
 import { Metadata } from "next";
 
+
 async function fetchGeneralData(): Promise<ApiResponse> {
-  const baseUrl = process.env.BASE_URL;
-  const res = await fetch(`${baseUrl}/api/general`, { cache: "no-store" });
-  if (!res.ok) throw new Error("Failed to fetch general data");
-  return res.json();
+    const baseUrl = process.env.BASE_URL
+    const res = await fetch(`${baseUrl}/api/general`, { cache: "no-store" })
+    if (!res.ok) throw new Error("Failed to fetch general data")
+    return res.json()
 }
 
 export async function generateMetadata(): Promise<Metadata> {
@@ -22,28 +23,28 @@ export async function generateMetadata(): Promise<Metadata> {
     //     meta_keywords: "",
     // };
 
-    // Canonical
-    const baseUrl = process.env.BASE_URL || "";
-    const canonicalPath = "/privacy-policy"; // hardcode since we know this is sessions page
-    const canonicalURL = `${baseUrl}${canonicalPath}`;
+        // Canonical 
+        const baseUrl = process.env.BASE_URL || '';
+        const canonicalPath = '/privacy-policy'; // hardcode since we know this is sessions page
+        const canonicalURL = `${baseUrl}${canonicalPath}`;
 
-    return {
-      // title: meta.title,
-      // description: meta.content,
-      // keywords: meta.meta_keywords,
-      metadataBase: new URL(baseUrl),
-      alternates: {
-        canonical: canonicalURL,
-      },
-    };
-  } catch (error) {
-    console.error("Metadata generation error sessions:", error);
-    return {
-      title: "Sessions",
-      description: "Explore the sessions of the conference.",
-      keywords: "",
-    };
-  }
+        return {
+            // title: meta.title,
+            // description: meta.content,
+            // keywords: meta.meta_keywords,
+            metadataBase: new URL(baseUrl),
+            alternates: {
+                canonical: canonicalURL,
+            },
+        };
+    } catch (error) {
+        console.error("Metadata generation error sessions:", error);
+        return {
+            title: "Sessions",
+            description: "Explore the sessions of the conference.",
+            keywords: "",
+        };
+    }
 }
 
 const PrivacyPolicy = async () => {

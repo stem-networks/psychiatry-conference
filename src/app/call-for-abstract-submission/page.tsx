@@ -3,14 +3,16 @@ import AbstractSubmission from "../components/AbstractSubmission";
 import { Metadata } from "next";
 import { ApiResponse } from "@/types";
 
+import { getBaseUrl } from "@/lib/getBaseUrl";
+
 async function fetchGeneralData(): Promise<ApiResponse> {
-  const baseUrl = process.env.BASE_URL;
+  const baseUrl = getBaseUrl();
   const res = await fetch(`${baseUrl}/api/general`, { cache: "no-store" });
   if (!res.ok) throw new Error("Failed to fetch general data");
   return res.json();
 }
 async function fetchGeneralDataStatic(): Promise<ApiResponse> {
-  const baseUrl = process.env.BASE_URL;
+  const baseUrl = getBaseUrl();
   const res = await fetch(`${baseUrl}/api/general`, {
     next: { revalidate: 3600 }, // Cache for 1 hour
   });
@@ -28,15 +30,15 @@ export async function generateMetadata(): Promise<Metadata> {
     };
 
     // Canonical
-    const baseUrl = process.env.BASE_URL || "";
+    // const baseUrl = process.env.BASE_URL || "";
     const canonicalPath = "/call-for-abstract-submission"; // hardcode since we know this is sessions page
-    const canonicalURL = `${baseUrl}${canonicalPath}`;
+    const canonicalURL = `${getBaseUrl()}${canonicalPath}`;
 
     return {
       title: meta.title,
       description: meta.content,
       keywords: meta.meta_keywords,
-      metadataBase: new URL(baseUrl),
+      metadataBase: new URL(getBaseUrl()),
       alternates: {
         canonical: canonicalURL,
       },
