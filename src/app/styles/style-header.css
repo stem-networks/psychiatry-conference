@@ -9374,7 +9374,7 @@ input[type="radio"] {
 
 /* When radio is checked */
 input[type="radio"]:checked {
-	background-color: var(--primary-color);
+	background-color: var(--secondary-color);
 	/* Change color when selected */
 	border-color: var(--white-color);
 	/* Change border color */
@@ -9386,7 +9386,7 @@ input[type="radio"]::before {
 	width: 10px;
 	/* Size of the inner dot */
 	height: 10px;
-	background-color: var(--primary-color);
+	background-color: var(--secondary-color);
 	border-color: 1px solid var(--white-color);
 	/* Inner dot color */
 	border-radius: 50%;
