@@ -58,7 +58,7 @@
             "banner_conent_id": "12",
             "image": "images/banner.jpg",
             "headding": "Innovating Cancer Therapies for a Brighter Future",
-            "tag_line": "Cancer Global Summit - April 22-23, 2026 in Barcelona, Spain",
+            "tag_line": "CGS - July 23-24, 2026 in Prague, Czech Republic",
             "content": "Discover the latest breakthroughs at the Cancer Global Summit 2026. Join global experts to discuss cutting-edge innovations in immunotherapy, precision medicine, AI in oncology, and advanced diagnostics. Download our brochure for details on the agenda, renowned speakers, and networking opportunities. ",
             "page": "index",
             "status": "1",
@@ -119,30 +119,30 @@
     ],
     "important_dates": [
         {
-            "text": "Abstract Submission Deadline",
-            "date": "14<sub>th</sub> <span>April <br> 2025</span>"
+            "text": "First Round of Abstract Submission Deadline",
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         },
         {
-            "text": "Discounted Registration Fee",
-            "date": "30<sub>th</sub> <span>April <br> 2025</span>"
+            "text": "Early Bird Registration Deadline",
+            "date": "22<sub>nd</sub> <span>September <br> 2025</span>"
         }
     ],
     "venue_images": {
         "17": {
             "image": "images/g1.webp",
-            "alt_text": "Barceloneta Beach"
+            "alt_text": "Charles Bridge"
         },
         "18": {
             "image": "images/g2.webp",
-            "alt_text": "Sagrada Familia"
+            "alt_text": "Jewish Quarter"
         },
         "19": {
             "image": "images/g3.webp",
-            "alt_text": "Gothic Quarter"
+            "alt_text": "Old Town Square"
         },
         "20": {
             "image": "images/g4.webp",
-            "alt_text": "Park Güell"
+            "alt_text": "Dancing House"
         }
     }
 }
