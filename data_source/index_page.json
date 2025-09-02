@@ -17,22 +17,22 @@
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Volunteer as a member of the Cancer Global Summit 2026, and be a part of this historic event. Meet International speakers, assist with logistic efforts during the event, and help advance cancer research in action.",
+            "content": "Gain hands-on experience, establish connections with top researchers and industry professionals, and gain skills in an interactive scientific community. It is a great opportunity to be part of an international conference, establish your professional network, and participate in cutting-edge debate in oncology and cancer.",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Join Cancer Global Summit 2026 to present research and innovations in cancer care. Abstracts are welcome from all oncology fields including science, clinical studies, therapies, and diagnosis.",
+            "content": "Share your oncology and cancer research at the Cancer and Oncology Conference 2026 through oral or poster presentations. The conference welcomes researchers, clinicians, and healthcare professionals from around the world. Submit your abstract to join this global exchange of knowledge.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Join the 2026 edition of the Cancer Global Summit to dig deeper into all the novel advances in oncology. Sessions will include breakthroughs in immunotherapy, gene therapies, and personalized medicine, through innovative ways with cancer diagnostics, treatment, and prevention insights that shape future cancer care.",
+            "content": "Our Cancer and Oncology conference unites specialists to deliver seminal research, novel methodologies, and the most recent findings in cancer and oncology. Network with industry pioneers, delve into latest developments, and learn pertinent insights defining the future of the discipline.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to the Cancer Global Summit 2026, which has brought all the experts and professionals in one place to explore the advanced and most innovative practices regarding oncology and treatments of cancer.",
+            "content": "Welcome to the Cancer and Oncology Conference 2026, where global researchers, clinicians, and academics meet to share advances in cancer biology, precision medicine, diagnostics, therapies, and global solutions for patient care.",
             "headding": "Footer Content"
         },
         "offers_content": {
@@ -57,9 +57,9 @@
         "12": {
             "banner_conent_id": "12",
             "image": "images/banner.jpg",
-            "headding": "Innovating Cancer Therapies for a Brighter Future",
-            "tag_line": "CGS - July 23-24, 2026 in Prague, Czech Republic",
-            "content": "Discover the latest breakthroughs at the Cancer Global Summit 2026. Join global experts to discuss cutting-edge innovations in immunotherapy, precision medicine, AI in oncology, and advanced diagnostics. Download our brochure for details on the agenda, renowned speakers, and networking opportunities. ",
+            "headding": "From Research to Recovery: Shaping a Bright Future in Cancer and Oncology",
+            "tag_line": "Cancer & Oncology-CGS July 23-24, 2026 in Prague, Czech Republic",
+            "content": "Join the Cancer and Oncology Conference 2026 for a chance to discuss cancer biology, precision medicine, immuno-oncology, early detection, and patient-centered care. Share insights with professionals, learn more, and be part of the future of cancer research and treatment. Download the brochure for detailed sessions and speaker highlights!",
             "page": "index",
             "status": "1",
             "cid": "11"
@@ -67,54 +67,54 @@
     },
     "sessions": [
         {
-            "text": "1. Cancer Epidemiology",
-            "link": "cancer-epidemiology",
-            "session_short_name": "Cancer Epidemiology"
+            "text": "1. Cancer Biology and Genetics",
+            "link": "cancer-biology-and-genetics",
+            "session_short_name": "Cancer Biology and Genetics"
         },
         {
-            "text": "2.\tMedical Oncology",
-            "link": "medical-oncology",
-            "session_short_name": "Medical Oncology"
+            "text": "2. Cancer Diagnosis and Early Detection",
+            "link": "cancer-diagnosis-and-early-detection",
+            "session_short_name": "Cancer Diagnosis and Early Detection"
         },
         {
-            "text": "3.\tCancer Biomarkers",
-            "link": "cancer-biomarkers",
-            "session_short_name": "Cancer Biomarkers"
+            "text": "3. Precision Medicine in Oncology",
+            "link": "precision-medicine-in-oncology",
+            "session_short_name": "Precision Medicine in Oncology"
         },
         {
-            "text": "4.\tLung Cancer",
-            "link": "lung-cancer",
-            "session_short_name": "Lung Cancer"
+            "text": "4. Immuno-Oncology and Cancer Immunotherapy",
+            "link": "immuno-oncology-and-cancer-immunotherapy",
+            "session_short_name": "Immuno-Oncology and Cancer Immunotherapy"
         },
         {
-            "text": "5.\tCancer Treatment and Therapy",
-            "link": "cancer-treatment-and-therapy",
-            "session_short_name": "Cancer Treatment and Therapy"
+            "text": "5. Targeted Therapies and Clinical Trials",
+            "link": "targeted-therapies-and-clinical-trials",
+            "session_short_name": "Targeted Therapies and Clinical Trials"
         },
         {
-            "text": "6.\tAI in Cancer",
-            "link": "ai-in-cancer",
-            "session_short_name": "AI in Cancer"
+            "text": "6. Radiation and Surgical Oncology",
+            "link": "radiation-and-surgical-oncology",
+            "session_short_name": "Radiation and Surgical Oncology"
         },
         {
-            "text": "7. Breast Cancer",
-            "link": "breast-cancer",
-            "session_short_name": "Breast Cancer"
+            "text": "7. Pediatric and Rare Cancers",
+            "link": "pediatric-and-rare-cancers",
+            "session_short_name": "Pediatric and Rare Cancers"
         },
         {
-            "text": "8. Pediatric Oncology",
-            "link": "pediatric-oncology",
-            "session_short_name": "Pediatric Oncology"
+            "text": "8. Cancer Prevention and Public Health",
+            "link": "cancer-prevention-and-public-health",
+            "session_short_name": "Cancer Prevention and Public Health"
         },
         {
-            "text": "9.\tCancer Pharmacology",
-            "link": "cancer-pharmacology",
-            "session_short_name": "Cancer Pharmacology"
+            "text": "9. Survivorship and Quality of Life",
+            "link": "survivorship-and-quality-of-life",
+            "session_short_name": "Survivorship and Quality of Life"
         },
         {
-            "text": "10. Radiation Oncology",
-            "link": "radiation-oncology",
-            "session_short_name": "Radiation Oncology"
+            "text": "10. Global Oncology and Healthcare Systems",
+            "link": "global-oncology-and-healthcare-systems",
+            "session_short_name": "Global Oncology and Healthcare Systems"
         }
     ],
     "important_dates": [

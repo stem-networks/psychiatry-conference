@@ -167,7 +167,7 @@ const Header: React.FC<HeaderProps> = ({ generalData, registerData }) => {
               <div className="img_text5">
                 <Link href="/register" title={general.clname}>
                   <div className="june_wrap55">
-                    <h1>{general.clname}</h1>
+                     <h1>{general.clname}-{general.csname} {general.year}</h1>
                     <span className="main-head-box"></span>
                     <span>Book Your Slot!</span>
                   </div>
