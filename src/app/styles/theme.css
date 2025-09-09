@@ -8,21 +8,21 @@ Intructions:
 3) If there is a need to do any new block for any conference website in specific, ensure to add and save the file in the style.css
  */
 :root {
-	--primary-color: #971860;
-	--secondary-color: #c63294;
-	--third-color: #c63294;
-	--fourth-color: #939393;
-	--light-color: #faeaf5;
+	--primary-color: #015697;
+	--secondary-color: #178dd7;
+	--third-color: #939393;
+	--light-color: #dceefa;
 	--preloader-color: #f9fbfe;
 	--white-color: #fff;
 	--black-color: #000;
-	--abstractfilebg-color: #d9a1c1;
-	--offerbg-color: #2b3b5c;
+	--abstractfilebg-color: #178dd79e;
+	--offerbg-color: #4e7e95;
 	--contentbg-color: #737373;
 	--iconbg-color: #adadad;
-	--bannerhover-color: #029bb4;
+	--bannerhover-color: #178dd7;
 	--registerbg-color: #87dae7;
 	--modalred-color: #ef513a;
+	--members-color: #015697;
 }
 
 .error {

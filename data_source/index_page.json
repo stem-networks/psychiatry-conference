@@ -2,38 +2,38 @@
     "oneliner": {
         "download_brochure": {
             "category": "download_brochure",
-            "content": "",
+            "content": "Join us for an unparalleled networking experience – register now to connect with industry professionals and leaders!",
             "headding": "Download Brochure"
         },
         "important_dates": {
             "category": "important_dates",
-            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming Cancer Global Summit. Timely registration and submissions will ensure you make the most of this premier event.",
-            "headding": "Important Dates"
+            "content": "Stay ahead by marking your calendars with these crucial deadlines for the upcoming NAPC. Timely registration and submissions will ensure you make the most of this premier event.",
+            "headding": "Important dates"
         },
         "Explore_Our_Comprehensive_Networking_Services": {
             "category": "Explore_Our_Comprehensive_Networking_Services",
             "content": "Unlock new opportunities and build valuable connections with our comprehensive networking services, tailored to enhance your conference experience.",
-            "headding": "Unleash Your Growth: Benefits of Participating in Conferences"
+            "headding": "Explore Our comprehensive Networking Services"
         },
         "Be_A_Volunteer": {
             "category": "Be_A_Volunteer",
-            "content": "Gain hands-on experience, establish connections with top researchers and industry professionals, and gain skills in an interactive scientific community. It is a great opportunity to be part of an international conference, establish your professional network, and participate in cutting-edge debate in oncology and cancer.",
+            "content": "Become an honored volunteer for the Neurology Conference 2025, which will help create memories and get you in touch with leaders in neurology. Engage in a healthy exchange of ideas while expanding your network and knowledge in neurological care. ",
             "headding": "Be A Volunteer"
         },
         "Submit_Your_Abstract": {
             "category": "Submit_Your_Abstract",
-            "content": "Share your oncology and cancer research at the Cancer and Oncology Conference 2026 through oral or poster presentations. The conference welcomes researchers, clinicians, and healthcare professionals from around the world. Submit your abstract to join this global exchange of knowledge.",
+            "content": "Submit your abstract to NAPC 2025 and share insights driving breakthroughs in brain health. Join a global community shaping the future of neurology.",
             "headding": "Submit Your Abstract"
         },
         "sessions": {
             "category": "sessions",
-            "content": "Our Cancer and Oncology conference unites specialists to deliver seminal research, novel methodologies, and the most recent findings in cancer and oncology. Network with industry pioneers, delve into latest developments, and learn pertinent insights defining the future of the discipline.",
+            "content": "Collaborate with the NAPC, a melting pot for neurology thought leaders and pioneers to communicate novel concepts. Engaging sessions drive input and innovation toward revolutionizing the boundaries of neurology. Connect with fellow professionals who will drive the progress of neurological health forward.",
             "headding": "Sessions"
         },
         "footer_content": {
             "category": "footer_content",
-            "content": "Welcome to the Cancer and Oncology Conference 2026, where global researchers, clinicians, and academics meet to share advances in cancer biology, precision medicine, diagnostics, therapies, and global solutions for patient care.",
-            "headding": "Footer Content"
+            "content": "Engage in our Neurology Conference to explore a hub of professionals, innovators, and pioneers in the subject. Be a force of change in neurology!",
+            "headding": "Footer content"
         },
         "offers_content": {
             "1": {
@@ -50,71 +50,86 @@
                 "category": "offers_content",
                 "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n <h2>The More, the Merrier! Register as a group of 3 or more</h2>\r\n <h3>and unlock a 20% discount for everyone!</h3>\r\n <a href=\"/register\">Register now</a>\r\n </div>",
                 "headding": "Offers Content"
+            },
+            "4": {
+                "category": "offers_content",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by Nov 2024 &amp; Save huge!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\" title=\"Register\">Register now</a>\r\n        </div>",
+                "headding": "Offers content"
+            },
+            "5": {
+                "category": "offers_content",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by Nov 2024 &amp; Save huge!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\" title=\"Register\">Register now</a>\r\n        </div>",
+                "headding": "Offers content"
+            },
+            "6": {
+                "category": "offers_content",
+                "content": "<div class=\"col-md-12 wow fadeInUp animated\" data-wow-delay=\"200ms\" data-wow-duration=\"1000ms\" style=\"visibility: visible; animation-duration: 1000ms; animation-delay: 200ms; animation-name: fadeInUp;\">\r\n          <h2>Book by Nov 2024 &amp; Save huge!</h2>\r\n          <h3>BRING A COLLEAGUE SAVE $200 TOTAL, BRING MORE, SAVE MORE</h3>\r\n          <a href=\"/register\" title=\"Register\">Register now</a>\r\n        </div>",
+                "headding": "Offers content"
             }
         }
     },
     "banner_conent": {
-        "12": {
-            "banner_conent_id": "12",
+        "13": {
+            "banner_conent_id": "13",
             "image": "images/banner.jpg",
-            "headding": "From Research to Recovery: Shaping a Bright Future in Cancer and Oncology",
-            "tag_line": "Cancer & Oncology-CGS July 23-24, 2026 in Prague, Czech Republic",
-            "content": "Join the Cancer and Oncology Conference 2026 for a chance to discuss cancer biology, precision medicine, immuno-oncology, early detection, and patient-centered care. Share insights with professionals, learn more, and be part of the future of cancer research and treatment. Download the brochure for detailed sessions and speaker highlights!",
+            "headding": "Innovations in Neurological Science: Bridging Clinical Practice and Research",
+            "tag_line": "Neurology-NAPC November 25-26, 2026 in Amsterdam, Netherlands",
+            "content": "Connect with the brain pioneers in neurology at the Neurology Innovations Conference. Join us for key-note sessions, expert panel discussions, and the latest neurological research and treatment presented. Download our brochure and learn more about this monumental event this October",
             "page": "index",
             "status": "1",
-            "cid": "11"
+            "cid": "10056"
         }
     },
     "sessions": [
         {
-            "text": "1. Cancer Biology and Genetics",
-            "link": "cancer-biology-and-genetics",
-            "session_short_name": "Cancer Biology and Genetics"
+            "text": "1. Neurological disorders and stroke",
+            "link": "neurological-disorders-and-stroke",
+            "session_short_name": "Neurological disorders and stroke"
         },
         {
-            "text": "2. Cancer Diagnosis and Early Detection",
-            "link": "cancer-diagnosis-and-early-detection",
-            "session_short_name": "Cancer Diagnosis and Early Detection"
+            "text": "2.\tAlzheimer's and Parkinson's diseases",
+            "link": "alzheimers and parkinsons diseases",
+            "session_short_name": "Alzheimer's and Parkinson's diseases"
         },
         {
-            "text": "3. Precision Medicine in Oncology",
-            "link": "precision-medicine-in-oncology",
-            "session_short_name": "Precision Medicine in Oncology"
+            "text": "3.\tNeuroimmunology and neurological infections",
+            "link": "neuroimmunology-and-neurological-infections",
+            "session_short_name": "Neuroimmunology and neurological infections"
         },
         {
-            "text": "4. Immuno-Oncology and Cancer Immunotherapy",
-            "link": "immuno-oncology-and-cancer-immunotherapy",
-            "session_short_name": "Immuno-Oncology and Cancer Immunotherapy"
+            "text": "4.\tNeuropharmacology and neurochemistry",
+            "link": "neuropharmacology-and-neurochemistry",
+            "session_short_name": "Neuropharmacology and neurochemistry"
         },
         {
-            "text": "5. Targeted Therapies and Clinical Trials",
-            "link": "targeted-therapies-and-clinical-trials",
-            "session_short_name": "Targeted Therapies and Clinical Trials"
+            "text": "5.\tBrain injury and behavioral neuroscience",
+            "link": "brain-injury-and-behavioral-neuroscience",
+            "session_short_name": "Brain injury and behavioral neuroscience"
         },
         {
-            "text": "6. Radiation and Surgical Oncology",
-            "link": "radiation-and-surgical-oncology",
-            "session_short_name": "Radiation and Surgical Oncology"
+            "text": "6.\tCognitive neuroscience and psychology",
+            "link": "cognitive-neuroscience-and-psychology",
+            "session_short_name": "Cognitive neuroscience and psychology"
         },
         {
-            "text": "7. Pediatric and Rare Cancers",
-            "link": "pediatric-and-rare-cancers",
-            "session_short_name": "Pediatric and Rare Cancers"
+            "text": "7. Neurosurgery and spine",
+            "link": "neurosurgery-and-spine",
+            "session_short_name": "Neurosurgery and spine"
         },
         {
-            "text": "8. Cancer Prevention and Public Health",
-            "link": "cancer-prevention-and-public-health",
-            "session_short_name": "Cancer Prevention and Public Health"
+            "text": "8. Human brain mapping",
+            "link": "human-brain-mapping",
+            "session_short_name": "Human brain mapping"
         },
         {
-            "text": "9. Survivorship and Quality of Life",
-            "link": "survivorship-and-quality-of-life",
-            "session_short_name": "Survivorship and Quality of Life"
+            "text": "9.\tMolecular genetics and neurobiology",
+            "link": "molecular-genetics-and-neurobiology",
+            "session_short_name": "Molecular genetics and neurobiology"
         },
         {
-            "text": "10. Global Oncology and Healthcare Systems",
-            "link": "global-oncology-and-healthcare-systems",
-            "session_short_name": "Global Oncology and Healthcare Systems"
+            "text": "10. Neurodegenerative diseases and stress",
+            "link": "neurodegenerative-diseases-and-stress",
+            "session_short_name": "Neurodegenerative diseases and stress"
         }
     ],
     "important_dates": [
@@ -128,21 +143,21 @@
         }
     ],
     "venue_images": {
-        "17": {
+        "5": {
             "image": "images/g1.webp",
-            "alt_text": "Charles Bridge"
+            "alt_text": "Lauterbrunnen Valley"
         },
-        "18": {
+        "6": {
             "image": "images/g2.webp",
-            "alt_text": "Jewish Quarter"
+            "alt_text": "Lake Lucerne Switzerland"
         },
-        "19": {
+        "7": {
             "image": "images/g3.webp",
-            "alt_text": "Old Town Square"
+            "alt_text": "Zermatt & matterhorn"
         },
-        "20": {
+        "8": {
             "image": "images/g4.webp",
-            "alt_text": "Dancing House"
+            "alt_text": "ST moritz"
         }
     }
 }

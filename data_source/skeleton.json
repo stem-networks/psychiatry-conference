@@ -1,101 +1,101 @@
 {
   "data": {
-    "cid": "11",
-    "site_url": "https://cancer-meetings.com",
-    "clname": "Cancer Global Summit",
-    "csname": "CGS",
-    "clogotext": "CGS-2026",
-    "sdate": "23",
-    "edate": "24",
-    "month": "July",
+    "cid": "10056",
+    "site_url": "https://neurology-meetings.com",
+    "clname": "Neurology Conference",
+    "csname": "NAPC",
+    "clogotext": "NAPC-2026",
+    "sdate": "25",
+    "edate": "26",
+    "month": "November",
     "year": "2026",
-    "venue_p1": "Prague, Czech Republic",
+    "venue_p1": "Amsterdam, Netherlands",
     "location_name": "",
     "loc_address": "",
     "postal_code": "",
-    "v1": "Prague",
-    "v2": "Czech Republic",
+    "v1": "Amsterdam",
+    "v2": "Netherlands",
     "venue_p2": "",
-    "cemail": "cancer.cgs@stemnetwork.net",
+    "cemail": "neuro.napc@stemnetwork.net",
     "phone": "+1 (872) 2138-777",
-    "whatsapp": "+41 77 414 46 91",
-    "full_length_dates": "July 23-24, 2026",
+    "whatsapp": "+1 (872) 2138-777",
+    "full_length_dates": "November 25-26, 2026",
     "full_length_venue": "Hybrid Event ",
-    "startDate": "2026-07-23",
-    "endDate": "2026-07-24",
-    "main_keyword": "Cancer & Oncology",
-    "confkeyword": "Cancer & Oncology"
+    "startDate": "2026-11-25",
+    "endDate": "2026-11-26",
+    "main_keyword": "Neurology",
+    "confkeyword": "Neurology"
   },
   "status": "200",
   "pages": {
     "index": [
       {
-        "title": "Cancer Conference | Meetings | Events | Czech Republic | 2026",
-        "content": "The Cancer Global Summit which is going to be held in Prague, Czech Republic during July 23-24, 2026 facilitates global exchange among cancer control experts, focusing on prevention, treatment innovations, and public health strategies. Join us to explore cutting-edge oncology research and network with healthcare leaders shaping cancer care worldwide. ",
-        "meta_keywords": "Cancer Global Summit 2026, Cancer summit Czech Republic, Cancer research conference, Oncology innovations, Global cancer therapies, Cancer prevention strategies 2026, International cancer conference, Oncologists summit Czech Republic, Cancer treatment advancements, Cancer care summit 2026"
+        "title": "Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Welcome to the Neurology Conference 2026 (NAPC) in Amsterdam, Netherlands, on November 25-26. Join leaders to explore innovations in brain research, addiction treatment, and psychiatric care.",
+        "meta_keywords": "Neurology Conference 2026, Addiction Conference 2026, Psychiatry Conference 2026, NAPC Netherlands 2026, Mental Health Conference 2026, Brain Research Conference Netherlands, Addiction Psychiatry Event Netherlands"
       }
     ],
     "sessions_meta": [
       {
-        "title": "Cancer Conference Sessions | Meetings | Events | Czech Republic | 2026",
-        "content": "Attend the 2026 Cancer Conference in Czech Republic, featuring expert-led sessions on cancer research, oncology treatments, immunotherapy, and personalized medicine. Connect with global oncologists and researchers to explore the latest advancements in cancer prevention and treatment.",
-        "meta_keywords": "cancer conference, 2026 cancer events, oncology sessions, cancer research Czech Republic, immunotherapy meetings, personalized medicine, cancer treatments, cancer prevention, oncology advancements, cancer research 2026, Czech Republic cancer conference"
+        "title": "Sessions | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Explore the featured sessions at the Neurology Conference 2026 (NAPC) in Netherlands. Dive into cutting-edge discussions on brain health, addiction treatment, psychiatric innovations, and mental health research.",
+        "meta_keywords": "Neurology Sessions 2026, Addiction Conference Sessions, Psychiatry Sessions Netherlands, NAPC 2026 Sessions, Brain Health Conference, Mental Health Research Sessions, Addiction Treatment Presentations, Psychiatry Innovations Conference"
       }
     ],
     "planning_committee": [
       {
-        "title": "Planning Committee | Cancer, Oncology",
-        "content": "Be a part of uniquely enriching experience at our Cancer research Conference! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Cancer research.",
-        "meta_keywords": "Cancer research conferences 2024,Oncology symposium 2024,Cancer summit global,International cancer congress,Clinical oncology meetings,Cancer immunotherapy conferences,Breast cancer conference 2024,Radiation oncology congress,Pediatric cancer symposium,Cancer treatment innovations conferences,Global oncology events 2024,Cancer prevention and treatment forum,Cancer biology and therapeutics conference,Carcinogenesis and cancer research meetings,Personalized cancer therapy summit"
+        "title": "Planning Committee | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Meet the esteemed planning committee behind the Neurology Conference 2026 (NAPC). Our team of experts in neurology, addiction, and psychiatry is dedicated to delivering a groundbreaking conference experience.",
+        "meta_keywords": "Neurology Addiction Psychiatry Conference Planning Committee, NAPC 2026 Organizers, Neurology Experts, Addiction Research Organizers, Psychiatry Conference Committee, Mental Health Conference Organizers, NAPC 2026 Organizing Team"
       }
     ],
     "organizing_committee": [
       {
-        "title": "Organizing Committee | Cancer, Oncology",
-        "content": "Be a part of uniquely enriching experience at our Cancer research Conference! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Cancer research.",
-        "meta_keywords": "Cancer research conferences 2024,Oncology symposium 2024,Cancer summit global,International cancer congress,Clinical oncology meetings,Cancer immunotherapy conferences,Breast cancer conference 2024,Radiation oncology congress,Pediatric cancer symposium,Cancer treatment innovations conferences,Global oncology events 2024,Cancer prevention and treatment forum,Cancer biology and therapeutics conference,Carcinogenesis and cancer research meetings,Personalized cancer therapy summit"
+        "title": "Organizing Committee | Neurology & Neuro Science",
+        "content": "Be a part of uniquely enriching experience at our International Neurology Conferenc! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Neurology.",
+        "meta_keywords": "Neurology World Conference 2024,International Neurology Conference,Global Neurology Summit,Neurology and Neuroscience Congress,Neurological Disorders Conference,Neurology Research and Innovations Summit,Neurology Conference keynote speakers,Global Neurology Trends,Neurological Disease Treatment Congress,Neurology and Brain Disorders World Congress,Neurodegenerative Diseases Conference,Neurology and Mental Health Congress,Neurology Clinical Trials Summit,Neurology and Stroke Conference,Pediatric Neurology Global Conference,Neurology and Neuroimaging Summit,Neurology and Neurotechnology Congress,Neurology Research and Development Forum,Advances in Neurology and Neuroscience Conference,Neurology Diagnosis and Treatment Summit"
       }
     ],
     "speakers": [
       {
-        "title": "Speakers | Cancer, Oncology",
-        "content": "Be a part of uniquely enriching experience at our Cancer research Conference! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Cancer research.",
-        "meta_keywords": "Cancer research conferences 2024,Oncology symposium 2024,Cancer summit global,International cancer congress,Clinical oncology meetings,Cancer immunotherapy conferences,Breast cancer conference 2024,Radiation oncology congress,Pediatric cancer symposium,Cancer treatment innovations conferences,Global oncology events 2024,Cancer prevention and treatment forum,Cancer biology and therapeutics conference,Carcinogenesis and cancer research meetings,Personalized cancer therapy summit"
+        "title": "Neurology Conference 2026 Speakers | NAPC Netherlands | November 2026",
+        "content": "Meet the distinguished speakers at the Neurology Conference 2026 (NAPC) in Netherlands. Hear from top experts in neurology, addiction treatment, and psychiatric research as they present groundbreaking insights and advancements.",
+        "meta_keywords": "Neurology Addiction Psychiatry Speakers, Addiction Research Experts, Psychiatry Conference Speakers, Neurology Leaders, Mental Health Experts 2026, Addiction Treatment Professionals, NAPC Neurology Addiction Psychiatry Speakers"
       }
     ],
     "down_brochure": [
       {
-        "title": "Download Brochure | Cancer, Oncology",
-        "content": "Be a part of uniquely enriching experience at our Cancer research Conference! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Cancer research.",
-        "meta_keywords": "Cancer research conferences 2024,Oncology symposium 2024,Cancer summit global,International cancer congress,Clinical oncology meetings,Cancer immunotherapy conferences,Breast cancer conference 2024,Radiation oncology congress,Pediatric cancer symposium,Cancer treatment innovations conferences,Global oncology events 2024,Cancer prevention and treatment forum,Cancer biology and therapeutics conference,Carcinogenesis and cancer research meetings,Personalized cancer therapy summit"
+        "title": "Download Brochure | Neurology & Neuro Science",
+        "content": "Be a part of uniquely enriching experience at our International Neurology Conferenc! Engage with pioneering healthcare strategies, connect with top professionals, and elevate your expertise through dynamic workshops and discussions. Secure your place today for unrivaled insights into the future of Neurology.",
+        "meta_keywords": "Neurology World Conference 2024,International Neurology Conference,Global Neurology Summit,Neurology and Neuroscience Congress,Neurological Disorders Conference,Neurology Research and Innovations Summit,Neurology Conference keynote speakers,Global Neurology Trends,Neurological Disease Treatment Congress,Neurology and Brain Disorders World Congress,Neurodegenerative Diseases Conference,Neurology and Mental Health Congress,Neurology Clinical Trials Summit,Neurology and Stroke Conference,Pediatric Neurology Global Conference,Neurology and Neuroimaging Summit,Neurology and Neurotechnology Congress,Neurology Research and Development Forum,Advances in Neurology and Neuroscience Conference,Neurology Diagnosis and Treatment Summit"
       }
     ],
     "FAQ": [
       {
-        "title": "Cancer Conference FAQs | Meetings | Events | Czech Republic | 2026",
-        "content": "Find answers to frequently asked questions about the 2026 Cancer Conference in Czech Republic. Discover key details about meetings, events, and the latest breakthroughs in cancer research and treatment",
-        "meta_keywords": "Cancer Conference 2026, cancer events Czech Republic, Cancer FAQs 2026, Czech Republic cancer conferences, oncology meetings 2026, cancer research conference, cancer treatment guidelines, Czech Republic health conference"
+        "title": "FAQ’S | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Find answers to frequently asked questions about the Neurology Conference 2026 (NAPC) in Netherlands. Get details about registration, venue, program highlights, and more for NAPC 2026.",
+        "meta_keywords": "NAPC 2026 FAQs, Neurology Addiction Psychiatry Conference FAQs, NAPC Conference Information, Neurology Conference 2026 Netherlands, Addiction Conference Details, Psychiatry Conference FAQs, NAPC Netherlands 2026 Questions"
       }
     ],
     "submit_abstract": [
       {
-        "title": "Cancer Conference Call for Abstracts | Meetings | Events | Czech Republic | 2026",
-        "content": "Contribute your abstract to the Cancer Conference 2026 in Czech Republic. Engage with oncologists, researchers, and healthcare professionals to present your work on cancer treatment, early detection, immunotherapy, and innovative cancer research at this leading international conference.",
-        "meta_keywords": "cancer conference 2026, call for abstracts, oncology, cancer treatment, immunotherapy, cancer research, early detection, submit abstract cancer, Czech Republic conferences 2026, cancer innovations, cancer biology, global oncology events, cancer prevention"
+        "title": "Abstract submit | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Submit your research abstract for the Neurology Conference 2026 (NAPC) in Netherlands. Share your latest findings in neurology, addiction studies, and psychiatric research with leaders and innovators.",
+        "meta_keywords": "Submit Abstract NAPC 2026, Neurology Conference Abstract Submission, Addiction Conference Abstracts, Psychiatry Conference Netherlands 2026, Neurology Addiction Psychiatry Research, NAPC Netherlands Abstracts, Call for Abstracts Neurology Addiction Psychiatry"
       }
     ],
     "register": [
       {
-        "title": "Cancer Conference Registration | Meetings | Events | Czech Republic | 2026",
-        "content": "Attend the Cancer Global Summit 2026 in Czech Republic, a premier event where oncologists, researchers, and healthcare professionals will discuss breakthroughs in cancer treatment, prevention, and innovative therapies. Don’t miss your chance to be part of this critical event.",
-        "meta_keywords": "Cancer Global Summit 2026, cancer treatment, cancer research, oncology conference, cancer prevention, innovative therapies, healthcare professionals, cancer summit, Czech Republic medical conference, oncology event, Czech Republic 2026"
+        "title": "Register for Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Secure your spot at the Neurology Conference 2026 (NAPC) in  Amsterdam, Netherlands. Register now to join leading experts in neurology, addiction treatment, and psychiatry this November 25-26, 2026.",
+        "meta_keywords": "Register Neurology Conference 2026, NAPC Netherlands Registration, Neurology Conference Registration, Addiction Conference Registration, Psychiatry Event Registration, NAPC 2026 Registration, Netherlands Medical Conference Registration"
       }
     ],
     "guidlines": [
       {
-        "title": "Cancer Conference Guidelines | Meetings | Events | Czech Republic | 2026",
-        "content": "Join us at the Cancer Conference 2026, scheduled in Czech Republic, and explore comprehensive guidelines for the event. Stay informed on key details, abstract submission processes, keynote presentations, and networking opportunities at this premier global platform for advancements in cancer research and treatment.",
-        "meta_keywords": "Cancer Conference 2026, Czech Republic cancer event, cancer research conference, cancer treatment guidelines, cancer meetings 2026, cancer research events Czech Republic, cancer keynote sessions, cancer networking opportunities, cancer conference guidelines 2026"
+        "title": "Guidelines | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Review the official guidelines for the Neurology Conference 2026 (NAPC) in Netherlands. Learn about abstract submission, registration policies, presentation formats, and participation procedures.",
+        "meta_keywords": "NAPC 2026 Guidelines, Neurology Conference Guidelines, Addiction Conference Rules, Psychiatry Conference Instructions, NAPC Netherlands Guidelines, Conference Submission Guidelines, Neurology Addiction Psychiatry Instructions"
       }
     ],
     "terms": [
@@ -103,6 +103,34 @@
         "title": "Terms of use",
         "content": "",
         "meta_keywords": ""
+      }
+    ],
+    "scientific_program": [
+      {
+        "title": "Scientific Program | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Explore the Scientific Program of the Neurology Conference 2026 (NAPC) in Netherlands. Discover sessions on cutting-edge research in neurology, addiction treatment, psychiatric disorders, brain science, and mental health innovations.",
+        "meta_keywords": "Scientific Program Neurology Addiction Psychiatry 2026, NAPC Netherlands Scientific Agenda, Neurology Sessions 2026, Addiction Research Program, Psychiatry Conference Agenda, Brain Science Program, Mental Health Research Sessions"
+      }
+    ],
+    "venue": [
+      {
+        "title": "Venue | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Discover the venue for the Neurology Conference 2026 (NAPC) in Amsterdam, Netherlands. Join us at a world-class location for two days of groundbreaking discussions in neurology, addiction, and psychiatry.",
+        "meta_keywords": "Neurology Addiction Psychiatry Conference Venue, NAPC 2026 Venue, Netherlands Conference Venue, Neurology Conference Netherlands, Addiction Conference Netherlands, Psychiatry Event Netherlands, NAPC Venue Details"
+      }
+    ],
+    "register_details": [
+      {
+        "title": "Register for Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Register now for the Neurology Conference 2026 (NAPC) in Amsterdam, Netherlands, on November 25-26. Secure your spot to engage with experts and explore the latest in neurology, addiction, and psychiatry research.",
+        "meta_keywords": "Neurology Addiction Psychiatry Conference Registration, NAPC Netherlands Registration 2026, Register for Neurology Conference, Addiction Conference Registration, Psychiatry Conference 2026, Mental Health Conference Registration, NAPC Registration Details"
+      }
+    ],
+    "privacy_policy": [
+      {
+        "title": "Privacy Policy | Neurology Conference 2026 | NAPC Netherlands | November 2026",
+        "content": "Read the Privacy Policy for the Neurology Conference 2026 (NAPC) in Netherlands. Learn how we protect your personal information and ensure your privacy during registration and event participation.",
+        "meta_keywords": "Neurology Addiction Psychiatry Conference Privacy Policy, NAPC Privacy Policy, Data Protection Neurology Conference, Personal Information Protection Addiction Conference, Event Privacy Policy, Mental Health Conference Privacy"
       }
     ]
   },
@@ -131,15 +159,15 @@
   "social_links": {
     "facebook": {
       "link": "https://www.facebook.com/profile.php?id=61563649766977",
-      "title": "Cancer Global Summit 2026 facebook"
+      "title": "Neurology Conference 2026 facebook"
     },
     "linkedin": {
       "link": "https://linkedin.com/company/stem-network-com",
-      "title": "Cancer Global Summit 2026 linkedin"
+      "title": "Neurology Conference 2026 linkedin"
     },
     "instagram": {
       "link": "https://www.instagram.com/stemnetwork_com",
-      "title": "Cancer Global Summit 2026 instagram"
+      "title": "Neurology Conference 2026 instagram"
     }
   }
 }
